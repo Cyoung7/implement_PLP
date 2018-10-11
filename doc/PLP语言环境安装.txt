@@ -1,0 +1,29 @@
+ubuntu16.04环境安装
+
+*Ada:sudo apt-get install gnat-4.9
+awk:http://www.runoob.com/linux/linux-comm-awk.html
+*C#:sudo apt install mono-complete
+Common Lisp:sudo apt-get install common-lisp-controller
+elisp:
+Erlang:https://tecadmin.net/install-erlang-on-ubuntu/
+F#:
+*Fortran:sudo apt-get install gfortran
+*Go: sudo apt-get install golang-go
+*Haskell:https://stackoverflow.com/questions/41739623/how-to-install-haskell-8-on-ubuntu-16-04
+Icon:
+*Java:
+JavaScript:
+Modula:
+*Pascal:http://fusharblog.com/installing-free-pascal-in-ubuntu/
+Perl:
+PHP:
+*Prolog:http://www.swi-prolog.org/build/PPA.html
+*Python:
+Ruby:sudo apt-get install ruby-full
+*Scheme:http://web.mit.edu/~axch/www/scheme/choices/mit-scheme.html
+sed:
+Smalltalk:https://www.howtoinstall.co/en/ubuntu/trusty/gnu-smalltalk
+*SML:sudo apt-get install smlnj
+SR:
+*Swift:https://tecadmin.net/install-swift-on-ubuntu/
+XSLT:http://www.runoob.com/xsl/xsl-tutorial.html
