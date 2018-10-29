@@ -1,4 +1,5 @@
 ubuntu16.04环境安装
+*:代表已安装
 
 *Ada:sudo apt-get install gnat-4.9
 awk:http://www.runoob.com/linux/linux-comm-awk.html
